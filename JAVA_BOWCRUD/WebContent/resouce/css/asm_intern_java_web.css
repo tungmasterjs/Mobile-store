@@ -1,0 +1,49 @@
+header {
+	height: 150px;
+	background-color: lightgray;
+	margin-bottom: 50px;
+	padding-top: 35px;
+}
+hr{
+	margin:0;
+	margin-bottom: 30px;
+}
+.LogOut{
+	position: absolute;
+	left: 89%;
+	top: 5%;
+}
+.formContainer{
+	width: 400px;
+	height: auto;
+}
+.formContainer button{
+	width: 100%;
+}
+.AddNewProduct{
+	font-size: 25px;
+	margin-bottom:-15px;
+}
+#formContainer form{
+	width: 450px;
+}
+#formContainer .tdText{
+	width: 170px;
+}
+#formContainer .inputFull{
+	width: 100%;
+}
+#formContainer textarea{
+	width: 100%;
+}
+.row .imgProduct{
+	width: 63%;
+	height: 160px;
+}
+.row .productBox{
+	width: 100%;
+	padding:5px;
+}
+.row .imgProductDetail{
+	width: 70%;
+}
